@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>$1Replace with yor title</title>
+  <meta name="description" content="to come">
+  <meta name="author" content="to come">
+
+  <link rel="stylesheet" href="to style sheets">
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <script src="javascript source to come></script>
+</body>
+</html>
+]]></content>
+  <!-- html5 page -->
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>html page</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+	<!-- <description>html page</description> -->
+</snippet>
